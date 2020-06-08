@@ -1,0 +1,3 @@
+# The Legend of Data Materials
+
+This repo stores all the notebooks and other supportive materials that I used in my data science tutorial series The Legend of Data. These notebooks are not complete tutorials and lot's of explanations are in the video. Tutorials will be live on my [Twitch](https://www.twitch.tv/cheukting_ho) every Monday 5pm (UK time). Recording will be avaliable forever (I hope) on my website [cheuk.dev](https://cheuk.dev) Follow me on [twitter](https://twitter.com/cheukting_ho) to get the news about all my tutorials, talks and workshops.
