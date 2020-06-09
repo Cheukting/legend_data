@@ -12,6 +12,12 @@ Follow me on [twitter](https://twitter.com/cheukting_ho) to get the news about a
 
 ---
 
+The data that I used as example will all be open data that is available for the public use. Sources are as follow:
+
+pokemon.csv - https://gist.github.com/armgilles/194bcff35001e7eb53a2a8b441e8b2c6
+
+---
+
 The Legend of Data Materials (c) by Cheuk Ting Ho
 
 The Legend of Data Materials is licensed under a
