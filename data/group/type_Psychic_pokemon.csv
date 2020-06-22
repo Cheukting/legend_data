@@ -1,0 +1,58 @@
+#,Name,Type 1,Type 2,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary
+63,Abra,Psychic,,310,25,20,15,105,55,90,1,False
+64,Kadabra,Psychic,,400,40,35,30,120,70,105,1,False
+65,Alakazam,Psychic,,500,55,50,45,135,95,120,1,False
+65,AlakazamMega Alakazam,Psychic,,590,55,50,65,175,95,150,1,False
+96,Drowzee,Psychic,,328,60,48,45,43,90,42,1,False
+97,Hypno,Psychic,,483,85,73,70,73,115,67,1,False
+122,Mr. Mime,Psychic,Fairy,460,40,45,65,100,120,90,1,False
+150,Mewtwo,Psychic,,680,106,110,90,154,90,130,1,True
+150,MewtwoMega Mewtwo X,Psychic,Fighting,780,106,190,100,154,100,130,1,True
+150,MewtwoMega Mewtwo Y,Psychic,,780,106,150,70,194,120,140,1,True
+151,Mew,Psychic,,600,100,100,100,100,100,100,1,False
+177,Natu,Psychic,Flying,320,40,50,45,70,45,70,2,False
+178,Xatu,Psychic,Flying,470,65,75,70,95,70,95,2,False
+196,Espeon,Psychic,,525,65,65,60,130,95,110,2,False
+201,Unown,Psychic,,336,48,72,48,72,48,48,2,False
+202,Wobbuffet,Psychic,,405,190,33,58,33,58,33,2,False
+249,Lugia,Psychic,Flying,680,106,90,130,90,154,110,2,True
+251,Celebi,Psychic,Grass,600,100,100,100,100,100,100,2,False
+280,Ralts,Psychic,Fairy,198,28,25,25,45,35,40,3,False
+281,Kirlia,Psychic,Fairy,278,38,35,35,65,55,50,3,False
+282,Gardevoir,Psychic,Fairy,518,68,65,65,125,115,80,3,False
+282,GardevoirMega Gardevoir,Psychic,Fairy,618,68,85,65,165,135,100,3,False
+325,Spoink,Psychic,,330,60,25,35,70,80,60,3,False
+326,Grumpig,Psychic,,470,80,45,65,90,110,80,3,False
+358,Chimecho,Psychic,,425,65,50,70,95,80,65,3,False
+360,Wynaut,Psychic,,260,95,23,48,23,48,23,3,False
+386,DeoxysNormal Forme,Psychic,,600,50,150,50,150,50,150,3,True
+386,DeoxysAttack Forme,Psychic,,600,50,180,20,180,20,150,3,True
+386,DeoxysDefense Forme,Psychic,,600,50,70,160,70,160,90,3,True
+386,DeoxysSpeed Forme,Psychic,,600,50,95,90,95,90,180,3,True
+433,Chingling,Psychic,,285,45,30,50,65,50,45,4,False
+439,Mime Jr.,Psychic,Fairy,310,20,25,45,70,90,60,4,False
+475,Gallade,Psychic,Fighting,518,68,125,65,65,115,80,4,False
+475,GalladeMega Gallade,Psychic,Fighting,618,68,165,95,65,115,110,4,False
+480,Uxie,Psychic,,580,75,75,130,75,130,95,4,True
+481,Mesprit,Psychic,,580,80,105,105,105,105,80,4,True
+482,Azelf,Psychic,,580,75,125,70,125,70,115,4,True
+488,Cresselia,Psychic,,600,120,70,120,75,130,85,4,False
+494,Victini,Psychic,Fire,600,100,100,100,100,100,100,5,True
+517,Munna,Psychic,,292,76,25,45,67,55,24,5,False
+518,Musharna,Psychic,,487,116,55,85,107,95,29,5,False
+527,Woobat,Psychic,Flying,313,55,45,43,55,43,72,5,False
+528,Swoobat,Psychic,Flying,425,67,57,55,77,55,114,5,False
+561,Sigilyph,Psychic,Flying,490,72,58,80,103,80,97,5,False
+574,Gothita,Psychic,,290,45,30,50,55,65,45,5,False
+575,Gothorita,Psychic,,390,60,45,70,75,85,55,5,False
+576,Gothitelle,Psychic,,490,70,55,95,95,110,65,5,False
+577,Solosis,Psychic,,290,45,30,40,105,50,20,5,False
+578,Duosion,Psychic,,370,65,40,50,125,60,30,5,False
+579,Reuniclus,Psychic,,490,110,65,75,125,85,30,5,False
+605,Elgyem,Psychic,,335,55,55,55,85,55,30,5,False
+606,Beheeyem,Psychic,,485,75,75,75,125,95,40,5,False
+677,Espurr,Psychic,,355,62,48,54,63,60,68,6,False
+678,MeowsticMale,Psychic,,466,74,48,76,83,81,104,6,False
+678,MeowsticFemale,Psychic,,466,74,48,76,83,81,104,6,False
+720,HoopaHoopa Confined,Psychic,Ghost,600,80,110,60,150,130,70,6,True
+720,HoopaHoopa Unbound,Psychic,Dark,680,80,160,60,170,130,80,6,True

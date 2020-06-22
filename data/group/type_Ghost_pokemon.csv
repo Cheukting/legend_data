@@ -1,0 +1,33 @@
+#,Name,Type 1,Type 2,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary
+92,Gastly,Ghost,Poison,310,30,35,30,100,35,80,1,False
+93,Haunter,Ghost,Poison,405,45,50,45,115,55,95,1,False
+94,Gengar,Ghost,Poison,500,60,65,60,130,75,110,1,False
+94,GengarMega Gengar,Ghost,Poison,600,60,65,80,170,95,130,1,False
+200,Misdreavus,Ghost,,435,60,60,60,85,85,85,2,False
+353,Shuppet,Ghost,,295,44,75,35,63,33,45,3,False
+354,Banette,Ghost,,455,64,115,65,83,63,65,3,False
+354,BanetteMega Banette,Ghost,,555,64,165,75,93,83,75,3,False
+355,Duskull,Ghost,,295,20,40,90,30,90,25,3,False
+356,Dusclops,Ghost,,455,40,70,130,60,130,25,3,False
+425,Drifloon,Ghost,Flying,348,90,50,34,60,44,70,4,False
+426,Drifblim,Ghost,Flying,498,150,80,44,90,54,80,4,False
+429,Mismagius,Ghost,,495,60,60,60,105,105,105,4,False
+442,Spiritomb,Ghost,Dark,485,50,92,108,92,108,35,4,False
+477,Dusknoir,Ghost,,525,45,100,135,65,135,45,4,False
+487,GiratinaAltered Forme,Ghost,Dragon,680,150,100,120,100,120,90,4,True
+487,GiratinaOrigin Forme,Ghost,Dragon,680,150,120,100,120,100,90,4,True
+562,Yamask,Ghost,,303,38,30,85,55,65,30,5,False
+563,Cofagrigus,Ghost,,483,58,50,145,95,105,30,5,False
+607,Litwick,Ghost,Fire,275,50,30,55,65,55,20,5,False
+608,Lampent,Ghost,Fire,370,60,40,60,95,60,55,5,False
+609,Chandelure,Ghost,Fire,520,60,55,90,145,90,80,5,False
+708,Phantump,Ghost,Grass,309,43,70,48,50,60,38,6,False
+709,Trevenant,Ghost,Grass,474,85,110,76,65,82,56,6,False
+710,PumpkabooAverage Size,Ghost,Grass,335,49,66,70,44,55,51,6,False
+710,PumpkabooSmall Size,Ghost,Grass,335,44,66,70,44,55,56,6,False
+710,PumpkabooLarge Size,Ghost,Grass,335,54,66,70,44,55,46,6,False
+710,PumpkabooSuper Size,Ghost,Grass,335,59,66,70,44,55,41,6,False
+711,GourgeistAverage Size,Ghost,Grass,494,65,90,122,58,75,84,6,False
+711,GourgeistSmall Size,Ghost,Grass,494,55,85,122,58,75,99,6,False
+711,GourgeistLarge Size,Ghost,Grass,494,75,95,122,58,75,69,6,False
+711,GourgeistSuper Size,Ghost,Grass,494,85,100,122,58,75,54,6,False

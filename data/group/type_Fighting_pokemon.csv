@@ -1,0 +1,28 @@
+#,Name,Type 1,Type 2,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary
+56,Mankey,Fighting,,305,40,80,35,35,45,70,1,False
+57,Primeape,Fighting,,455,65,105,60,60,70,95,1,False
+66,Machop,Fighting,,305,70,80,50,35,35,35,1,False
+67,Machoke,Fighting,,405,80,100,70,50,60,45,1,False
+68,Machamp,Fighting,,505,90,130,80,65,85,55,1,False
+106,Hitmonlee,Fighting,,455,50,120,53,35,110,87,1,False
+107,Hitmonchan,Fighting,,455,50,105,79,35,110,76,1,False
+236,Tyrogue,Fighting,,210,35,35,35,35,35,35,2,False
+237,Hitmontop,Fighting,,455,50,95,95,35,110,70,2,False
+296,Makuhita,Fighting,,237,72,60,30,20,30,25,3,False
+297,Hariyama,Fighting,,474,144,120,60,40,60,50,3,False
+307,Meditite,Fighting,Psychic,280,30,40,55,40,55,60,3,False
+308,Medicham,Fighting,Psychic,410,60,60,75,60,75,80,3,False
+308,MedichamMega Medicham,Fighting,Psychic,510,60,100,85,80,85,100,3,False
+447,Riolu,Fighting,,285,40,70,40,35,40,60,4,False
+448,Lucario,Fighting,Steel,525,70,110,70,115,70,90,4,False
+448,LucarioMega Lucario,Fighting,Steel,625,70,145,88,140,70,112,4,False
+532,Timburr,Fighting,,305,75,80,55,25,35,35,5,False
+533,Gurdurr,Fighting,,405,85,105,85,40,50,40,5,False
+534,Conkeldurr,Fighting,,505,105,140,95,55,65,45,5,False
+538,Throh,Fighting,,465,120,100,85,30,85,45,5,False
+539,Sawk,Fighting,,465,75,125,75,30,75,85,5,False
+619,Mienfoo,Fighting,,350,45,85,50,55,50,65,5,False
+620,Mienshao,Fighting,,510,65,125,60,95,60,105,5,False
+674,Pancham,Fighting,,348,67,82,62,46,48,43,6,False
+675,Pangoro,Fighting,Dark,495,95,124,78,69,71,58,6,False
+701,Hawlucha,Fighting,Flying,500,78,92,75,74,63,118,6,False

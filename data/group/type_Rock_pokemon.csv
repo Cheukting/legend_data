@@ -1,0 +1,45 @@
+#,Name,Type 1,Type 2,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary
+74,Geodude,Rock,Ground,300,40,80,100,30,30,20,1,False
+75,Graveler,Rock,Ground,390,55,95,115,45,45,35,1,False
+76,Golem,Rock,Ground,495,80,120,130,55,65,45,1,False
+95,Onix,Rock,Ground,385,35,45,160,30,45,70,1,False
+138,Omanyte,Rock,Water,355,35,40,100,90,55,35,1,False
+139,Omastar,Rock,Water,495,70,60,125,115,70,55,1,False
+140,Kabuto,Rock,Water,355,30,80,90,55,45,55,1,False
+141,Kabutops,Rock,Water,495,60,115,105,65,70,80,1,False
+142,Aerodactyl,Rock,Flying,515,80,105,65,60,75,130,1,False
+142,AerodactylMega Aerodactyl,Rock,Flying,615,80,135,85,70,95,150,1,False
+185,Sudowoodo,Rock,,410,70,100,115,30,65,30,2,False
+246,Larvitar,Rock,Ground,300,50,64,50,45,50,41,2,False
+247,Pupitar,Rock,Ground,410,70,84,70,65,70,51,2,False
+248,Tyranitar,Rock,Dark,600,100,134,110,95,100,61,2,False
+248,TyranitarMega Tyranitar,Rock,Dark,700,100,164,150,95,120,71,2,False
+299,Nosepass,Rock,,375,30,45,135,45,90,30,3,False
+337,Lunatone,Rock,Psychic,440,70,55,65,95,85,70,3,False
+338,Solrock,Rock,Psychic,440,70,95,85,55,65,70,3,False
+345,Lileep,Rock,Grass,355,66,41,77,61,87,23,3,False
+346,Cradily,Rock,Grass,495,86,81,97,81,107,43,3,False
+347,Anorith,Rock,Bug,355,45,95,50,40,50,75,3,False
+348,Armaldo,Rock,Bug,495,75,125,100,70,80,45,3,False
+377,Regirock,Rock,,580,80,100,200,50,100,50,3,True
+408,Cranidos,Rock,,350,67,125,40,30,30,58,4,False
+409,Rampardos,Rock,,495,97,165,60,65,50,58,4,False
+410,Shieldon,Rock,Steel,350,30,42,118,42,88,30,4,False
+411,Bastiodon,Rock,Steel,495,60,52,168,47,138,30,4,False
+438,Bonsly,Rock,,290,50,80,95,10,45,10,4,False
+476,Probopass,Rock,Steel,525,60,55,145,75,150,40,4,False
+524,Roggenrola,Rock,,280,55,75,85,25,25,15,5,False
+525,Boldore,Rock,,390,70,105,105,50,40,20,5,False
+526,Gigalith,Rock,,515,85,135,130,60,80,25,5,False
+566,Archen,Rock,Flying,401,55,112,45,74,45,70,5,False
+567,Archeops,Rock,Flying,567,75,140,65,112,65,110,5,False
+639,Terrakion,Rock,Fighting,580,91,129,90,72,90,108,5,True
+688,Binacle,Rock,Water,306,42,52,67,39,56,50,6,False
+689,Barbaracle,Rock,Water,500,72,105,115,54,86,68,6,False
+696,Tyrunt,Rock,Dragon,362,58,89,77,45,45,48,6,False
+697,Tyrantrum,Rock,Dragon,521,82,121,119,69,59,71,6,False
+698,Amaura,Rock,Ice,362,77,59,50,67,63,46,6,False
+699,Aurorus,Rock,Ice,521,123,77,72,99,92,58,6,False
+703,Carbink,Rock,Fairy,500,50,50,150,50,150,50,6,False
+719,Diancie,Rock,Fairy,600,50,100,150,100,150,50,6,True
+719,DiancieMega Diancie,Rock,Fairy,700,50,160,110,160,110,110,6,True

@@ -1,0 +1,5 @@
+#,Name,Type 1,Type 2,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary
+641,TornadusIncarnate Forme,Flying,,580,79,115,70,125,80,111,5,True
+641,TornadusTherian Forme,Flying,,580,79,100,80,110,90,121,5,True
+714,Noibat,Flying,Dragon,245,40,30,35,45,40,55,6,False
+715,Noivern,Flying,Dragon,535,85,70,80,97,80,123,6,False

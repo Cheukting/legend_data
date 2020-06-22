@@ -1,0 +1,18 @@
+#,Name,Type 1,Type 2,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary
+35,Clefairy,Fairy,,323,70,45,48,60,65,35,1,False
+36,Clefable,Fairy,,483,95,70,73,95,90,60,1,False
+173,Cleffa,Fairy,,218,50,25,28,45,55,15,2,False
+175,Togepi,Fairy,,245,35,20,65,40,65,20,2,False
+176,Togetic,Fairy,Flying,405,55,40,85,80,105,40,2,False
+209,Snubbull,Fairy,,300,60,80,50,40,40,30,2,False
+210,Granbull,Fairy,,450,90,120,75,60,60,45,2,False
+468,Togekiss,Fairy,Flying,545,85,50,95,120,115,80,4,False
+669,Flabébé,Fairy,,303,44,38,39,61,79,42,6,False
+670,Floette,Fairy,,371,54,45,47,75,98,52,6,False
+671,Florges,Fairy,,552,78,65,68,112,154,75,6,False
+682,Spritzee,Fairy,,341,78,52,60,63,65,23,6,False
+683,Aromatisse,Fairy,,462,101,72,72,99,89,29,6,False
+684,Swirlix,Fairy,,341,62,48,66,59,57,49,6,False
+685,Slurpuff,Fairy,,480,82,80,86,85,75,72,6,False
+700,Sylveon,Fairy,,525,95,65,65,110,130,60,6,False
+716,Xerneas,Fairy,,680,126,131,95,131,98,99,6,True

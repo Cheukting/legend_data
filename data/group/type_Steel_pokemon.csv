@@ -1,0 +1,28 @@
+#,Name,Type 1,Type 2,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary
+208,Steelix,Steel,Ground,510,75,85,200,55,65,30,2,False
+208,SteelixMega Steelix,Steel,Ground,610,75,125,230,55,95,30,2,False
+227,Skarmory,Steel,Flying,465,65,80,140,40,70,70,2,False
+303,Mawile,Steel,Fairy,380,50,85,85,55,55,50,3,False
+303,MawileMega Mawile,Steel,Fairy,480,50,105,125,55,95,50,3,False
+304,Aron,Steel,Rock,330,50,70,100,40,40,30,3,False
+305,Lairon,Steel,Rock,430,60,90,140,50,50,40,3,False
+306,Aggron,Steel,Rock,530,70,110,180,60,60,50,3,False
+306,AggronMega Aggron,Steel,,630,70,140,230,60,80,50,3,False
+374,Beldum,Steel,Psychic,300,40,55,80,35,60,30,3,False
+375,Metang,Steel,Psychic,420,60,75,100,55,80,50,3,False
+376,Metagross,Steel,Psychic,600,80,135,130,95,90,70,3,False
+376,MetagrossMega Metagross,Steel,Psychic,700,80,145,150,105,110,110,3,False
+379,Registeel,Steel,,580,80,75,150,75,150,50,3,True
+385,Jirachi,Steel,Psychic,600,100,100,100,100,100,100,3,True
+436,Bronzor,Steel,Psychic,300,57,24,86,24,86,23,4,False
+437,Bronzong,Steel,Psychic,500,67,89,116,79,116,33,4,False
+483,Dialga,Steel,Dragon,680,100,120,120,150,100,90,4,True
+599,Klink,Steel,,300,40,55,70,45,60,30,5,False
+600,Klang,Steel,,440,60,80,95,70,85,50,5,False
+601,Klinklang,Steel,,520,60,100,115,70,85,90,5,False
+638,Cobalion,Steel,Fighting,580,91,90,129,90,72,108,5,True
+679,Honedge,Steel,Ghost,325,45,80,100,35,37,28,6,False
+680,Doublade,Steel,Ghost,448,59,110,150,45,49,35,6,False
+681,AegislashBlade Forme,Steel,Ghost,520,60,150,50,150,50,60,6,False
+681,AegislashShield Forme,Steel,Ghost,520,60,50,150,50,150,60,6,False
+707,Klefki,Steel,Fairy,470,57,80,91,80,87,75,6,False

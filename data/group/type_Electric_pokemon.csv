@@ -1,0 +1,45 @@
+#,Name,Type 1,Type 2,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary
+25,Pikachu,Electric,,320,35,55,40,50,50,90,1,False
+26,Raichu,Electric,,485,60,90,55,90,80,110,1,False
+81,Magnemite,Electric,Steel,325,25,35,70,95,55,45,1,False
+82,Magneton,Electric,Steel,465,50,60,95,120,70,70,1,False
+100,Voltorb,Electric,,330,40,30,50,55,55,100,1,False
+101,Electrode,Electric,,480,60,50,70,80,80,140,1,False
+125,Electabuzz,Electric,,490,65,83,57,95,85,105,1,False
+135,Jolteon,Electric,,525,65,65,60,110,95,130,1,False
+145,Zapdos,Electric,Flying,580,90,90,85,125,90,100,1,True
+172,Pichu,Electric,,205,20,40,15,35,35,60,2,False
+179,Mareep,Electric,,280,55,40,40,65,45,35,2,False
+180,Flaaffy,Electric,,365,70,55,55,80,60,45,2,False
+181,Ampharos,Electric,,510,90,75,85,115,90,55,2,False
+181,AmpharosMega Ampharos,Electric,Dragon,610,90,95,105,165,110,45,2,False
+239,Elekid,Electric,,360,45,63,37,65,55,95,2,False
+243,Raikou,Electric,,580,90,85,75,115,100,115,2,True
+309,Electrike,Electric,,295,40,45,40,65,40,65,3,False
+310,Manectric,Electric,,475,70,75,60,105,60,105,3,False
+310,ManectricMega Manectric,Electric,,575,70,75,80,135,80,135,3,False
+311,Plusle,Electric,,405,60,50,40,85,75,95,3,False
+312,Minun,Electric,,405,60,40,50,75,85,95,3,False
+403,Shinx,Electric,,263,45,65,34,40,34,45,4,False
+404,Luxio,Electric,,363,60,85,49,60,49,60,4,False
+405,Luxray,Electric,,523,80,120,79,95,79,70,4,False
+417,Pachirisu,Electric,,405,60,45,70,45,90,95,4,False
+462,Magnezone,Electric,Steel,535,70,70,115,130,90,60,4,False
+466,Electivire,Electric,,540,75,123,67,95,85,95,4,False
+479,Rotom,Electric,Ghost,440,50,50,77,95,77,91,4,False
+479,RotomHeat Rotom,Electric,Fire,520,50,65,107,105,107,86,4,False
+479,RotomWash Rotom,Electric,Water,520,50,65,107,105,107,86,4,False
+479,RotomFrost Rotom,Electric,Ice,520,50,65,107,105,107,86,4,False
+479,RotomFan Rotom,Electric,Flying,520,50,65,107,105,107,86,4,False
+479,RotomMow Rotom,Electric,Grass,520,50,65,107,105,107,86,4,False
+522,Blitzle,Electric,,295,45,60,32,50,32,76,5,False
+523,Zebstrika,Electric,,497,75,100,63,80,63,116,5,False
+587,Emolga,Electric,Flying,428,55,75,60,75,60,103,5,False
+602,Tynamo,Electric,,275,35,55,40,45,40,60,5,False
+603,Eelektrik,Electric,,405,65,85,70,75,70,40,5,False
+604,Eelektross,Electric,,515,85,115,80,105,80,50,5,False
+642,ThundurusIncarnate Forme,Electric,Flying,580,79,115,70,125,80,111,5,True
+642,ThundurusTherian Forme,Electric,Flying,580,79,105,70,145,80,101,5,True
+694,Helioptile,Electric,Normal,289,44,38,33,61,43,70,6,False
+695,Heliolisk,Electric,Normal,481,62,55,52,109,94,109,6,False
+702,Dedenne,Electric,Fairy,431,67,58,57,81,67,101,6,False
